@@ -1,0 +1,12 @@
+Cowie, Jackson   Dataset size:  100000                       
+Laughton, David      
+                      RANDOM                              ASCENDING                             DESCENDING         
+  Sort             Elapsed Time    Number of Swaps      Elapsed Time      Number of Swaps      Elapsed Time      Number of Swaps    
+Bubble Sort            86            6212577                 0                 0                   94               12497500
+Merge Sort             2             1002                    1                 0                   1                2048
+Quicksort              1             16647                   31                21646               32               26645
+Insertion Sort         52            6212577                 0                 0                   78               12497500
+Heap Sort              1             57128                   0                 60933               2                53437
+Selection Sort(I)      19            58436                   36                63435               18               68434
+Selection Sort(R)      14            73433                   24                78432               19               83431
+Shell Sort             1             61213                   0                 0                   1                28780

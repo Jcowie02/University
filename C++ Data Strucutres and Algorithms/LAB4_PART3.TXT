@@ -1,0 +1,4 @@
+Cowie, Jackson    Size of Dataset  60000  
+                          Elapsed time   Number of swaps  
+Quick Sort                     12            166435
+Modified Quick Sort            8            150627
